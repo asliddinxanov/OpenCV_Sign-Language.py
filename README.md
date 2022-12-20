@@ -6,3 +6,10 @@ We tend to write the same code in different projects to perform hand tracking as
 
 We then convert this piece of code into a module. We can import this module into any python project that we are working on and it will perform hand tracking.
 
+## Introduction
+
+To create the program that will perform hand tracking, we will need two Python libraries. These are openCV.
+
+We will use openCV to perform operations associated with computer vision. We will use MediaPipe to perform the actual hand detection and tracking on our input image. We will finally need an IDE. For this tutorial, we will use the Pycharm IDE.
+
+This tutorial will be divided into two parts. The first part will focus on how to create a program that does hand tacking. The second part will focus on how to turn the program into a module. A person using Windows, Linux, or macOS can follow through.
