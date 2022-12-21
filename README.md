@@ -1,6 +1,6 @@
 # Creating a Hand Tracking Module using Python, OpenCv and Keras.
 
-Topics: <a href=https://azure.microsoft.com/ja-jp/products/machine-learning/#product-overview</a>
+Topics: <a href= /https://azure.microsoft.com/ja-jp/products/machine-learning/#product-overview</a>
 #
 Hand tracking is the process in which a computer uses computer vision to detect a hand from an input image and keeps focus on the hand’s movement and orientation. Hand tracking allows us to develop numerous programs that use hand movement and orientation as their input.
 
