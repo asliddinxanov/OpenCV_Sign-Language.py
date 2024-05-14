@@ -1,4 +1,5 @@
 # Creating a Hand Tracking Module using Python, OpenCv and Keras.
+# Image DATA(update qilish jarayonida C-data)
 
 Topics: <a href=https://azure.microsoft.com/ja-jp/products/machine-learning/#product-overview>Machine Learning</a> 
 #
